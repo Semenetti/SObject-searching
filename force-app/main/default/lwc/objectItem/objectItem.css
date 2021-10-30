@@ -1,0 +1,9 @@
+p,
+span {
+  color: #fff;
+  text-shadow: #000 1px 0 10px;
+}
+
+span {
+  font-weight: 900;
+}
